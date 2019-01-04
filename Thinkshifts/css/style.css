@@ -1,0 +1,68 @@
+.white{
+	color: white;
+}
+li{
+	list-style-type: none;
+	line-height: 25px;
+	font-size: 15.6px;
+	color: black;
+}
+.navbar-inverse {
+    background-color: white;
+  	border : none;
+}
+.background{
+	background-color: red;
+	padding: 31.5px 50px;
+	color: white;
+}
+.image {
+	width: 100%;
+}
+.head{
+	padding: 0;
+}
+.img-holder {
+    padding: 60px 90px 0px 130px;
+}
+.man{
+	padding: 10px;
+}
+.practices{
+	margin-top: 64px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	border-left: 1px solid red;
+}
+.span{
+	color: red;
+}
+.image2{
+	border-radius: 50%;
+	width: 15em;
+
+}
+.believe{
+	padding: 50px;
+}
+.button{
+	border-radius: 1em;
+	padding: 4px 20px;
+	background-color: red;
+	font-family: 'Archivo Black', sans-serif;
+	color: white;
+}
+.grit{
+	line-height: 40px;
+}
+.wavers{
+	line-height: 30px;
+}
+.website {
+	background-color: red;
+}
+.logo1{
+	width: 50px;
+	margin: 50px; 
+}
+@media (min-width: 769px)
